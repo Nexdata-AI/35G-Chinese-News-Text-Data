@@ -3,7 +3,7 @@
 ## Description
 News content data, about 35G in total; each piece of news comment content contains ID, time, news title and news body; this dataset can be used for tasks such as LLM training, chatgpt
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1258?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets?source=Github
 
 
 # Specifications
